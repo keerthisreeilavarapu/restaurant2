@@ -1,0 +1,33 @@
+body{
+    background-color:darkolivegreen;
+}
+h1{
+    color:whitesmoke;
+    text-align:center;
+    border:5px;
+}
+h5{
+    background-color:orangered;
+    margin-right:70vw;
+    text-align: center;
+}
+p{
+    color:whitesmoke;
+    font-style: italic;
+}
+img{
+    float:right;
+    
+    
+}
+a{
+    padding: 5vw;
+    margin-left:10vw;
+}
+section{
+    margin-left: 180px;
+    margin-top:90px;
+}
+footer{
+    margin-left: 180px;
+}
